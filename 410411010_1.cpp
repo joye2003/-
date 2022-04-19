@@ -1,3 +1,4 @@
+//ID:410411010 name:周儀 class:1B
 #include <iostream>
 using namespace std;
 class Sample {
